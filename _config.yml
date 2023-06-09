@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Zhirui ZONG"
 description              : &description "Assistant Professor of Microelectronics in Hong Kong University of Science and Technology (Guangzhou)"
 url                      : https://ZhiruiZong.github.io/zong # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/portfolio/" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZhiruiZong/zong"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
