@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications ([Google Scholar](https://scholar.google.com/citations?user=sa0K-EUAAAAJ&hl=en))"
+title: "Publications ([Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9917492))"
 permalink: /publications/
 author_profile: true
 ---
