@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Team"
-permalink: /team/
+title: "Group"
+permalink: /group/
 author_profile: true
 ---
 
