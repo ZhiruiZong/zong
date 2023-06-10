@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<b>Research Interests</b>.<br>
+<b>Research Interests</b>:<br>
 
 * Phase-locked loops (PLL) and frequency synthesizers
 
