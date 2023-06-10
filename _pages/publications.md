@@ -26,12 +26,14 @@ Journal
 
 Conference 
 ==================
-[5] Xiaolong Liu, Zhiqiang Huang, Jun Yin, Howard C Luong, “Magnetic-Tuning Millimeter-Wave CMOS Oscillators,” IEEE Custom Integrated Circuits Conference (CICC), April 2019  
+[C6] Zhong Gao, Jingchu He, Martin Fritz, Jiang Gong, Yiyu Shen, Zhirui Zong, Peng Chen, Gerd Spalink, Ben Eitel, Ken Yamamoto, Robert Bogdan Staszewski, Morteza S Alavi, Masoud Babaie, "A 2.6-to-4.1 GHz Fractional-N Digital PLL Based on a Time-Mode Arithmetic Unit Achieving-249.4 dB FoM and-59dBc Fractional Spurs," IEEE International Solid-State Circuits Conference (**ISSCC**), Feb. 2022. ([Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9731561))
 
-[4] Zhiqiang Huang , Howard C. Luong, “An 82-to-108GHz -181dB-FOMT ADPLL Employing a DCO with Split-Transformer and Dual-Path Switched-Capacitor Ladder and a Clock-Skew-Sampling Delta-Sigma TDC,” IEEE Int. Solid-State Circuits Conf. (ISSCC) Dig. Tech. Papers,  Feb. 2018  
+[C5] Feng-Wei Kuo, Zhirui Zong, Huan-Neng Ron Chen, Lan-Chou Cho, Chewn-Pu Jou, Mark Chen, Robert Bogdan Staszewski, "A 77/79-GHz frequency generator in 16-nm CMOS for FMCW radar applications based on a 26-GHz oscillator with co-generated third harmonic," IEEE European Solid State Circuits Conference (ESSCIRC), Sept. 2019. ([Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8902490))
 
-[3] Zhiqiang Huang , Bingwei Jiang, Lianming Li, Howard C. Luong, “A 4.2μs-Settling-Time 3rd-Order 2.1GHz Phase-Noise-Rejection PLL Using a Cascaded Time-Amplified Clock-Skew Sub-Sampling DLL,” IEEE Int. Solid-State Circuits Conf. (ISSCC) Dig. Tech. Papers, Feb. 2016 
+[C4] Zhirui Zong, Robert Bogdan Staszewski, "Effects of subharmonics in LO generation on RF transceivers," IEEE MTT-S International Microwave Workshop Series on 5G Hardware and System Technologies (IMWS-5G), Aug. 2018. ([Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8484718))
 
-[2] Zhiqiang Huang , Howard C. Luong, “A Dithering-Less 54.79-to-63.16GHz DCO with 4-Hz Frequency Resolution Using An Exponentially-Scaling C-2C Switched-Capacitor Ladder,” IEEE Symposium on VLSI Circuits (VLSI), June 2015 
+[C3] Peng Chen, Feifei Zhang, Zhirui Zong, Hao Zheng, Teerachot Siriburanon, Robert Bogdan Staszewski, "A 15-μW, 103-fs step, 5-bit capacitor-DAC-based constant-slope digital-to-time converter in 28nm CMOS," IEEE Asian Solid-State Circuits Conference (ASSCC), Nov. 2017. ([Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8240224))
 
-[1] Zhiqiang Huang , Howard C. Luong, Baoyong Chi, Zhihua Wang and Haikun Jia, “A 70.5-to-85.5GHz 65nm Phase-Locked Loop with Passive Scaling of Loop Filter,” IEEE Int. Solid-State Circuits Conf. (ISSCC) Dig. Tech. Papers, Feb. 2015 
+[C2] Zhirui Zong, Masoud Babaie, Robert Bogdan Staszewski, "A 60 GHz 25% tuning range frequency generator with implicit divider based on third harmonic extraction with 182 dBc/Hz FoM," IEEE Radio Frequency Integrated Circuits Symposium (RFIC), May 2015. ([Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7337759))
+
+[C1] Zhirui Zong, Kai Kang, "Multiple coupling inductors model based on four-port measurement," IEEE MTT-S International Microwave Symposium (IMS), June 2012. ([Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6259770))
