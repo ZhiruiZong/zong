@@ -1,10 +1,13 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /teaching/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
+* <b>Research Interests</b>.<br>
 
-1. Radio-Frequency Integrated Circuits for Wireless Systems (2022 Fall)
+Phase-locked loops (PLL) and frequency synthesizers
 
-2. Clock Generation Integrated Circuits (2023 Spring)
+RF and millimeter-wave integrated circuits design
+
+High-speed data communication circuits design
