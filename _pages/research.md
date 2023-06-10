@@ -4,10 +4,10 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-* <b>Research Interests</b>.<br>
+<b>Research Interests</b>.<br>
 
-Phase-locked loops (PLL) and frequency synthesizers
+* Phase-locked loops (PLL) and frequency synthesizers
 
-RF and millimeter-wave integrated circuits design
+* RF and millimeter-wave integrated circuits design
 
-High-speed data communication circuits design
+* High-speed data communication circuits design
