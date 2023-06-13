@@ -23,6 +23,8 @@ Journal
 [J1] Kai Kang, Zhirui Zong, Zongzhi Gao, Yong-Ling Ban, Bogdan Staszewski, Wen-Yan Yin, "Characterization and modeling of multiple coupled inductors based on on-chip four-port measurement," IEEE Transactions on Components, Packaging and Manufacturing Technology (TCPMT), vol. 4, no. 10, pp. 1696-1704, October 2014. ([Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6891283))
 
 
+
+
 Conference 
 ==================
 [C6] Zhong Gao, Jingchu He, Martin Fritz, Jiang Gong, Yiyu Shen, Zhirui Zong, Peng Chen, Gerd Spalink, Ben Eitel, Ken Yamamoto, Robert Bogdan Staszewski, Morteza S Alavi, Masoud Babaie, "A 2.6-to-4.1 GHz Fractional-N Digital PLL Based on a Time-Mode Arithmetic Unit Achieving-249.4 dB FoM and-59dBc Fractional Spurs," IEEE International Solid-State Circuits Conference (**ISSCC**), Feb. 2022. ([Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9731561))
