@@ -4,7 +4,6 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-
 Journal 
 =================
 [J8] Zhong Gao, Jingchu He, Martin Fritz, Jiang Gong, Yiyu Shen, Zhirui Zong, Peng Chen, Gerd Spalink, Ben Eitel, Morteza S Alavi, Robert Bogdan Staszewski, Masoud Babaie, “A Low-Spur Fractional-N PLL Based on a Time-Mode Arithmetic Unit,” IEEE Journal of Solid-State Circuits (**JSSC**), vol. 58, no. 6, pp. 1552-1571, June 2023. ([Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9917492))
