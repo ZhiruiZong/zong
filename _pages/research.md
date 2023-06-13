@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<b>Research Interests</b>:<br>
+<b>Research Interests</b>:
 * Phase-locked loops (PLL) and frequency synthesizers
 
 * RF and millimeter-wave integrated circuits design
