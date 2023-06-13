@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Research interests:
+Research Interests:
 ======
 * Phase-locked loops (PLL) and frequency synthesizers
 
