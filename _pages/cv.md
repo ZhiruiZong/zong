@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Microelectronics, Technische Universiteit Delft, 2019
+* Ph.D. in Microelectronics, Technische Universiteit Delft (TU Delft), 2019
   * Supervisor: Prof. Robert Bogdan Staszewski (IEEE Fellow)
   
 * B.Eng. in Electrical Engineering, University of Electronic Science and Technology of China (UESTC), 2012
